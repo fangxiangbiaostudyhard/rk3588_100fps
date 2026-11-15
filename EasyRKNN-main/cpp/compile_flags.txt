@@ -1,0 +1,5 @@
+-Iinclude
+-Iinclude/3rdparty
+-std=c++17
+-xc++
+-Wno-unknown-pragmas
